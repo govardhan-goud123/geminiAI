@@ -195,7 +195,7 @@ flowchart TD
 ### Step 1 — Navigate to Project Directory
 
 ```powershell
-cd "C:\Users\Govardhan Goud\Downloads\LLM"
+cd "C:\Users\userName\Downloads\LLM"
 ```
 
 ### Step 2 — Create Python Virtual Environment
